@@ -1,0 +1,14 @@
+C:\_Aaron\Projects\PicSort(CSharp)\PicSort\obj\x86\Release\PicSort.frmMain.resources
+C:\_Aaron\Projects\PicSort(CSharp)\PicSort\obj\x86\Release\PicSort.frmTasks.resources
+C:\_Aaron\Projects\PicSort(CSharp)\PicSort\obj\x86\Release\PicSort.frmView.resources
+C:\_Aaron\Projects\PicSort(CSharp)\PicSort\obj\x86\Release\PicSort.Properties.Resources.resources
+C:\_Aaron\Projects\PicSort(CSharp)\PicSort\obj\x86\Release\PicSort.frmDupes.resources
+C:\_Aaron\Projects\PicSort(CSharp)\PicSort\obj\x86\Release\PicSort.frmFolders.resources
+C:\_Aaron\Projects\PicSort(CSharp)\PicSort\obj\x86\Release\PicSort.frmVote.resources
+C:\_Aaron\Projects\PicSort(CSharp)\PicSort\obj\x86\Release\PicSort.frmElimination.resources
+C:\_Aaron\Projects\PicSort(CSharp)\PicSort\bin\Release\PicManager.exe
+C:\_Aaron\Projects\PicSort(CSharp)\PicSort\bin\Release\PicManager.pdb
+C:\_Aaron\Projects\PicSort(CSharp)\PicSort\obj\x86\Release\PicManager.exe
+C:\_Aaron\Projects\PicSort(CSharp)\PicSort\obj\x86\Release\PicManager.pdb
+C:\_Aaron\Projects\PicSort(CSharp)\PicSort\obj\x86\Release\PicSort.csprojResolveAssemblyReference.cache
+C:\_Aaron\Projects\PicSort(CSharp)\PicSort\obj\x86\Release\PicSort.csproj.GenerateResource.Cache
