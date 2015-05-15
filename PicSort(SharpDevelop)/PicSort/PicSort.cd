@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ClassDiagram Zoom="1" MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="PicSort.Program" Collapsed="False">
+    <Position X="0.5" Y="0.5" Width="2.266876" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Delegate Name="PicSort.AsyncDelegateLoadHash" Collapsed="False">
+    <Position X="0.5" Y="1.9" Width="1.863327" />
+    <Compartments />
+  </Delegate>
+  <Delegate Name="PicSort.SetDupeMenuCallBack" Collapsed="False">
+    <Position X="0.5" Y="3.1" Width="1.752252" />
+    <Compartments />
+  </Delegate>
+  <Class Name="PicSort.frmMain" Collapsed="False">
+    <Position X="0.5" Y="4.3" Width="2.748542" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="PicSort.frmFolders" Collapsed="False">
+    <Position X="0.5" Y="9.8" Width="2.034777" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="PicSort.frmVote" Collapsed="False">
+    <Position X="0.5" Y="12.3" Width="1.897169" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="PicSort.frmDupes" Collapsed="False">
+    <Position X="0.5" Y="15.7" Width="2.469298" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="PicSort.GlobalVars" Collapsed="False">
+    <Position X="0.5" Y="18.9" Width="2.198288" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="PicSort.Funcs" Collapsed="False">
+    <Position X="0.5" Y="21.1" Width="2.336417" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="PicSort.frmElimination" Collapsed="False">
+    <Position X="0.5" Y="22.4" Width="2.213097" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="PicSort.PicPic" Collapsed="False">
+    <Position X="0.5" Y="26.9" Width="1.593703" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="PicSort.frmTasks" Collapsed="False">
+    <Position X="0.5" Y="32.7" Width="1.50986" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="PicSort.frmView" Collapsed="False">
+    <Position X="0.5" Y="34.4" Width="2.054704" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="PicSort.Tracker" Collapsed="False">
+    <Position X="0.5" Y="36.5" Width="1.40362" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+</ClassDiagram>
